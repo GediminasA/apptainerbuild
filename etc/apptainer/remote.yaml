@@ -1,0 +1,10 @@
+Active: SylabsCloud
+Remotes:
+  DefaultRemote:
+    URI: cloud.apptainer.org
+    System: true
+    Exclusive: false
+  SylabsCloud:
+    URI: cloud.sylabs.io
+    System: false
+    Exclusive: false
